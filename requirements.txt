@@ -1,8 +1,8 @@
-crispy-bootstrap5==0.7
-Django==4.1.5
-django-allauth==0.52.0
-django-crispy-forms==1.14.0
-django-debug-toolbar==3.8.1
-whitenoise==6.3.0
-psycopg2-binary==2.9.5
+crispy-bootstrap5==2026.9
+Django==5.2.18
+django-allauth==65.19.7
+django-crispy-forms==2.7
+django-debug-toolbar==8.0.0
+whitenoise==6.12.0
+psycopg2-binary==2.9.13
 certifi>=2026.10.19
